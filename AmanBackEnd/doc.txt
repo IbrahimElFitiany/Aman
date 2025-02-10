@@ -1,0 +1,15 @@
+USER MODULE:
+user can Register/Login
+user can add/remove/update Room
+user can add/remove/update Furniture
+user can add/remove Sensor
+user recive an email it there's multiple failed login that happeed in the house 
+
+if  the user is not logged , if  a sensor is triggerd a msg is send to the security module in real time 
+if the security system took action and the door has a sensor the theif get's lock inside the room
+
+SECURITY MODULE
+emp can Login
+emp can monitor each district accourding to his rotation 
+emp can take action for a theif house
+emp can monitor house 
