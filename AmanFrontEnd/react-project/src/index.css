@@ -1,0 +1,5 @@
+@import "tailwindcss";
+
+.ol-viewport{
+  border-radius: 10px;
+}
