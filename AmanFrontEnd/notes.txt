@@ -1,7 +1,0 @@
-what's a useEffect:
- is a way to run code after the component has rendered or when certain values (dependencies) change.
- Key Points to Remember
-useEffect runs after rendering, not during it.
-If you don't pass a dependency array, the effect will run after every render.
-Passing an empty array ([]) ensures the effect runs only once after the initial render.
-Adding dependencies ([dep1, dep2]) ensures the effect runs only when those dependencies change.
